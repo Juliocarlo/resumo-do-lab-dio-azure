@@ -8,23 +8,33 @@ Ele permite que empresas criem, gerenciem e implantem aplicativos em uma rede gl
 Características do Azure
 
 ✅ Alta disponibilidade
+
 ✅ Segurança robusta
+
 ✅ Escalabilidade
+
 ✅ Integração com produtos Microsoft
+
 ✅ Modelos de nuvem flexíveis
 
 Prós do Azure
 
-✅ Custo-benefício: Empresas pagam apenas pelos recursos que utilizam, reduzindo gastos com infraestrutura. 
-✅ Segurança avançada: Autenticação multifator e proteção contra ameaças cibernéticas. 
-✅ Suporte global: Data centers distribuídos em várias regiões do mundo. 
+✅ Custo-benefício: Empresas pagam apenas pelos recursos que utilizam, reduzindo gastos com infraestrutura.
+
+✅ Segurança avançada: Autenticação multifator e proteção contra ameaças cibernéticas.
+
+✅ Suporte global: Data centers distribuídos em várias regiões do mundo.
+
 ✅ Facilidade de uso: Interface intuitiva e integração com ferramentas populares.
 
 Contras do Azure
 
-❌ Curva de aprendizado: Pode ser complexo para iniciantes, exigindo treinamento. 
-❌ Dependência da Microsoft: Algumas funcionalidades são otimizadas apenas para produtos da empresa. 
-❌ Custos variáveis: O preço pode aumentar dependendo do uso e da necessidade de recursos adicionais. 
+❌ Curva de aprendizado: Pode ser complexo para iniciantes, exigindo treinamento.
+
+❌ Dependência da Microsoft: Algumas funcionalidades são otimizadas apenas para produtos da empresa.
+
+❌ Custos variáveis: O preço pode aumentar dependendo do uso e da necessidade de recursos adicionais.
+
 ❌ Latência em algumas regiões: O desempenho pode variar dependendo da localização dos data centers.
 
 O Microsoft Azure oferece uma ampla gama de serviços organizados em diferentes categorias para atender às necessidades de empresas e desenvolvedores. 

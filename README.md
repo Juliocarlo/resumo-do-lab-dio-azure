@@ -27,5 +27,36 @@ Contras do Azure
 ❌ Custos variáveis: O preço pode aumentar dependendo do uso e da necessidade de recursos adicionais. 
 ❌ Latência em algumas regiões: O desempenho pode variar dependendo da localização dos data centers.
 
+O Microsoft Azure oferece uma ampla gama de serviços organizados em diferentes categorias para atender às necessidades de empresas e desenvolvedores. 
+Aqui estão as principais categorias:
+
+1. Computação
+💻 Serviços para rodar aplicativos e processar dados, incluindo Máquinas Virtuais (VMs), Kubernetes (AKS) e Funções do Azure (serverless).
+
+2. Armazenamento
+📦 Soluções para guardar e gerenciar dados, como Blob Storage (arquivos não estruturados), Disk Storage (discos para VMs) e Data Lake (Big Data).
+
+3. Redes
+🌐 Infraestrutura para conectar sistemas, incluindo Rede Virtual (VNet), Balanceador de Carga e VPN Gateway para conexões seguras.
+
+4. Bancos de Dados
+📊 Serviços para armazenar e gerenciar dados estruturados e não estruturados, como SQL Database, Cosmos DB (NoSQL) e PostgreSQL/MySQL gerenciados.
+
+5. Segurança
+🔒 Proteção contra ameaças cibernéticas, incluindo Azure Security Center, Proteção contra DDoS e Gerenciamento de Identidade (Microsoft Entra ID).
+
+6. Inteligência Artificial e Machine Learning
+🤖 Ferramentas para criar modelos de IA, como Azure Machine Learning, Cognitive Services e Bot Service.
+
+7. Internet das Coisas (IoT)
+📡 Soluções para conectar dispositivos inteligentes, incluindo IoT Hub, IoT Edge e Digital Twins.
+
+8. DevOps e Desenvolvimento
+🚀 Ferramentas para desenvolvedores, como Azure DevOps, App Service (hospedagem de aplicativos) e API Management.
+
+9. Gerenciamento e Governança
+⚙️ Serviços para monitorar e administrar recursos, como Azure Monitor, Backup e Políticas de Conformidade.
+
 O Azure é uma solução poderosa para empresas que buscam escalabilidade, segurança e flexibilidade na nuvem.
 No entanto, é essencial avaliar os custos e a curva de aprendizado antes de adotá-lo.
+
